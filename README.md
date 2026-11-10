@@ -1,12 +1,14 @@
-<!-- Replace YOUR_USERNAME (many places) and YOUR_EMAIL before publishing -->
+<!--
+  SETUP: 1) put header.svg inside an "assets" folder in this repo  2) add the snake workflow  3) replace YOUR_USERNAME and YOUR_EMAIL
+-->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,50:1e3a8a,100:0ea5e9&height=260&section=header&text=Abdullah%20Arshadul%20Rahman&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Senior%20Flutter%20%26%20Full-Stack%20Engineer&descAlignY=62&descSize=20" width="100%" alt="header" />
+<img src="assets/header.svg" alt="Abdullah Arshadul Rahman - Senior Flutter and Full-Stack Engineer" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=820&height=50&lines=Crafting+secure%2C+high-performance+mobile+apps+%F0%9F%9B%A1%EF%B8%8F;Flutter+%C2%B7+Node.js+%C2%B7+TypeScript+%C2%B7+.NET+%C2%B7+Python+%C2%B7+PHP;Banking+%C2%B7+Fintech+%C2%B7+Insurance+%F0%9F%92%B3;7%2B+years+shipping+to+production+%F0%9F%9A%80;Open+to+opportunities+in+Dubai+%2F+UAE+%F0%9F%87%A6%F0%9F%87%AA" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=860&height=50&lines=Crafting+secure%2C+high-performance+mobile+apps+%F0%9F%9B%A1%EF%B8%8F;Flutter+%C2%B7+Kotlin+%C2%B7+React+Native+%C2%B7+Java;Node.js+%C2%B7+TypeScript+%C2%B7+Python+%C2%B7+PHP+%C2%B7+.NET;Banking+%C2%B7+Fintech+%C2%B7+Insurance+%F0%9F%92%B3;Open+to+opportunities+in+Dubai+%2F+UAE+%F0%9F%87%A6%F0%9F%87%AA" alt="typing" />
 
-<br/><br/>
+<br/>
 
 <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-22c55e?style=for-the-badge&labelColor=0f172a" />
 <img src="https://img.shields.io/badge/EXPERIENCE-7%2B%20YEARS-0ea5e9?style=for-the-badge&labelColor=0f172a" />
@@ -19,7 +21,6 @@
 <a href="https://arshadrahman.in"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=googlechrome&logoColor=38bdf8" /></a>
 <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/YOUR_USERNAME?tab=followers"><img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&label=Followers&labelColor=0f172a&color=38bdf8" /></a>
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&label=PROFILE+VIEWS&color=0ea5e9&labelColor=0f172a" />
 
 </div>
 
@@ -43,7 +44,7 @@ I lead with clean architecture, care about security and quality, and enjoy turni
 <td align="center" width="25%">
 <h3>📱</h3>
 <b>Mobile Engineering</b><br/>
-<sub>Flutter apps, native bridges, store releases, performance</sub>
+<sub>Flutter, Kotlin, React Native, Java; native bridges, store releases, performance</sub>
 </td>
 <td align="center" width="25%">
 <h3>🔐</h3>
@@ -52,13 +53,13 @@ I lead with clean architecture, care about security and quality, and enjoy turni
 </td>
 <td align="center" width="25%">
 <h3>⚙️</h3>
-<b>Back-End & APIs</b><br/>
+<b>Back-End &amp; APIs</b><br/>
 <sub>Node.js, TypeScript, Python, PHP, .NET microservices</sub>
 </td>
 <td align="center" width="25%">
-<h3>👥</h3>
-<b>Team Leadership</b><br/>
-<sub>Agile delivery, code reviews, mentoring, estimation</sub>
+<h3>🧪</h3>
+<b>Test Automation</b><br/>
+<sub>Appium, Robot Framework, Selenium, JMeter, Postman</sub>
 </td>
 </tr>
 </table>
@@ -73,23 +74,35 @@ I lead with clean architecture, care about security and quality, and enjoy turni
 
 <h3>📱 Mobile</h3>
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,swift,androidstudio,xcode,firebase&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,react,swift,androidstudio,xcode&theme=dark&perline=8" />
+<br/>
+<img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
 
 <h3>⚙️ Back End</h3>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,ts,python,php,dotnet,cs&theme=dark&perline=7" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,ts,python,php,dotnet,cs,java&theme=dark&perline=8" />
 
-<h3>🗄️ Databases</h3>
+<h3>🗄️ Databases &amp; Cloud</h3>
 
-<img src="https://skillicons.dev/icons?i=mysql,mssql,firebase&theme=dark&perline=3" />
+<img src="https://skillicons.dev/icons?i=supabase,firebase,sqlite,mysql,mssql&theme=dark&perline=5" />
 
-<h3>🌐 Web & Design</h3>
+<h3>🌐 Web &amp; Design</h3>
 
-<img src="https://skillicons.dev/icons?i=react,js,html,css,figma&theme=dark&perline=5" />
+<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,figma&theme=dark&perline=6" />
 
-<h3>🛠️ DevOps, Testing & Tools</h3>
+<h3>🤖 Test Automation</h3>
 
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,postman,selenium,jira,vscode,linux&theme=dark&perline=9" />
+<img src="https://img.shields.io/badge/Appium-3A2C85?style=for-the-badge&logo=appium&logoColor=white" />
+<img src="https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white" />
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+<img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+
+<h3>🛠️ DevOps &amp; Tools</h3>
+
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,postman,jira,vscode,linux&theme=dark&perline=8" />
 
 </div>
 
@@ -97,7 +110,7 @@ I lead with clean architecture, care about security and quality, and enjoy turni
 
 <div align="center">
 
-### 🧩 Patterns & Practices
+### 🧩 Patterns &amp; Practices
 
 <img src="https://img.shields.io/badge/Clean%20Architecture-0ea5e9?style=flat-square" />
 <img src="https://img.shields.io/badge/MVVM-0ea5e9?style=flat-square" />
@@ -107,6 +120,7 @@ I lead with clean architecture, care about security and quality, and enjoy turni
 <img src="https://img.shields.io/badge/Microservices-6366f1?style=flat-square" />
 <img src="https://img.shields.io/badge/REST%20APIs-6366f1?style=flat-square" />
 <img src="https://img.shields.io/badge/JWT%20%2F%20OAuth-6366f1?style=flat-square" />
+<img src="https://img.shields.io/badge/Offline--first-6366f1?style=flat-square" />
 <img src="https://img.shields.io/badge/CI%2FCD-22c55e?style=flat-square" />
 <img src="https://img.shields.io/badge/TestFlight-22c55e?style=flat-square&logo=apple&logoColor=white" />
 <img src="https://img.shields.io/badge/App%20Center-22c55e?style=flat-square&logo=microsoft&logoColor=white" />
@@ -121,44 +135,6 @@ I lead with clean architecture, care about security and quality, and enjoy turni
 <img src="https://img.shields.io/badge/Code%20Obfuscation-e11d48?style=flat-square" />
 <img src="https://img.shields.io/badge/OWASP%20MASVS-e11d48?style=flat-square" />
 
-### 🧪 Quality
-
-<img src="https://img.shields.io/badge/Unit%20%26%20Widget%20Testing-14b8a6?style=flat-square" />
-<img src="https://img.shields.io/badge/Selenium-14b8a6?style=flat-square&logo=selenium&logoColor=white" />
-<img src="https://img.shields.io/badge/JMeter-14b8a6?style=flat-square" />
-<img src="https://img.shields.io/badge/Postman-14b8a6?style=flat-square&logo=postman&logoColor=white" />
-
-</div>
-
-<br/>
-
----
-
-<h2 align="center">💼 &nbsp;What I Build</h2>
-
-<table align="center">
-<tr>
-<td align="center" width="33%">
-<h3>🏦 Banking & Fintech</h3>
-<sub>Secure mobile banking and investment apps with strong authentication, encrypted data and polished UX.</sub>
-</td>
-<td align="center" width="33%">
-<h3>🛡️ Insurance</h3>
-<sub>Member-facing mobile experiences: policies, claims and services delivered at scale.</sub>
-</td>
-<td align="center" width="33%">
-<h3>🌐 Web Platforms</h3>
-<sub>Client and admin web apps with PHP, MySQL, React and REST back ends.</sub>
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-
-**Also built:** *PhysioTally*, an offline-first invoicing and receipt app for physiotherapists and clinics, live on Google Play.
-
 </div>
 
 <br/>
@@ -169,25 +145,15 @@ I lead with clean architecture, care about security and quality, and enjoy turni
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/0ea5e9/YOUR_USERNAME" alt="Contribution chart" width="95%" />
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" alt="Contribution snake" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/snake.svg" />
+  <img alt="Contribution graph with snake animation" src="assets/snake-dark.svg" width="100%" />
+</picture>
 
 </div>
 
 <br/>
-
-<!--
-OPTIONAL STATS CARDS: the public github-readme-stats server is sometimes rate-limited.
-If you want them, remove this comment wrapper. If a card shows an error, refresh later.
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</div>
--->
 
 ---
 
@@ -197,36 +163,48 @@ If you want them, remove this comment wrapper. If a card shows an error, refresh
 <tr>
 <td width="50%" valign="top">
 
-### 🏛️ [flutter-clean-architecture-starter](https://github.com/YOUR_USERNAME/flutter-clean-architecture-starter)
-Production-ready Flutter template: clean architecture, BLoC, DI, flavors, tests and CI.
+### 🛡️ Tawuniya Insurance Mobile App
+**Senior Mobile Team Lead / Flutter Developer** · Mobcoder · Jul 2025 – Mar 2026
 
-`Flutter` `Dart` `BLoC` `GitHub Actions`
+Led Flutter delivery of a member-facing insurance mobile app: architecture, code reviews, sprint planning and release management with the team.
+
+`Flutter` `Dart` `REST APIs` `Team Lead` `Agile`
+
+<sub>🔒 Client project (private repository)</sub>
 
 </td>
 <td width="50%" valign="top">
 
-### 🔐 [flutter-secure-banking-kit](https://github.com/YOUR_USERNAME/flutter-secure-banking-kit)
-Reusable security layer: certificate pinning, secure storage, biometrics, jailbreak/root detection.
+### 🏦 Leader Investment Group: Mobile Banking &amp; Investment
+**Senior Flutter Developer** · LIG, Riyadh · Mar 2023 – 2025
 
-`Flutter` `Security` `Native Channels`
+Built secure mobile banking and investment features on Flutter and .NET back ends, with CI/CD through App Center and iOS beta distribution on TestFlight.
+
+`Flutter` `.NET` `Microservices` `Mobile Security` `CI/CD`
+
+<sub>🔒 Client project (private repository)</sub>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🚢 [flutter-ci-cd-pipeline](https://github.com/YOUR_USERNAME/flutter-ci-cd-pipeline)
-Automated test, build, sign and distribute workflows for Android and iOS.
+### 🩺 PhysioTally
+**Personal product** · Live on Google Play
 
-`GitHub Actions` `Fastlane` `TestFlight`
+Offline-first invoicing and receipt app for physiotherapists and clinics, designed to work without a connection.
+
+`Flutter` `SQLite` `Offline-first` `Google Play`
 
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ [node-ts-api-starter](https://github.com/YOUR_USERNAME/node-ts-api-starter)
-Node.js + TypeScript REST API template with JWT auth, validation, MySQL and Docker.
+### 🥗 Clinical Dietitian Website
+**Full-stack project** · Client and admin portals
 
-`Node.js` `TypeScript` `MySQL` `Docker`
+Quotation and booking records, admin notification on new bookings, automatic call reminders every 7 days from a client's joining date, and diet-chart creation with PDF export from a template.
+
+`PHP` `MySQL` `React` `PDF Export`
 
 </td>
 </tr>
@@ -245,7 +223,7 @@ Node.js + TypeScript REST API template with JWT auth, validation, MySQL and Dock
 | 🔭 **Working on** | Reusable Flutter security and architecture kits |
 | 📚 **Learning** | SwiftUI, Flutter performance profiling, platform channels |
 | 🤝 **Looking for** | Flutter / Mobile Lead roles in Dubai and the UAE |
-| 💬 **Ask me about** | Flutter, mobile security, Node.js / TypeScript / .NET APIs, team delivery |
+| 💬 **Ask me about** | Flutter, mobile security, Node.js / TypeScript / .NET APIs, mobile test automation |
 
 </div>
 
@@ -265,8 +243,8 @@ Have a project, a role, or just want to talk mobile? Reach out.
 <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://arshadrahman.in"><img src="https://img.shields.io/badge/Visit%20Portfolio-0f172a?style=for-the-badge&logo=googlechrome&logoColor=38bdf8" /></a>
 
-<br/><br/>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:1e3a8a,100:0f172a&height=140&section=footer" width="100%" alt="footer" />
+<sub>Built with care · Thanks for visiting 👋</sub>
 
 </div>
